@@ -1,9 +1,10 @@
 # Vue.js Resume
 
 > resume template
+> forked from https://github.com/KimWooHyun/resume
 
 ## Demo
-> https://kimwoohyun.github.io/resume/
+> https://greatfarmer.github.io/resume/
 
 ## Build Setup
 
