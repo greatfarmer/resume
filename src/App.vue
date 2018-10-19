@@ -23,7 +23,7 @@
           <record-list :title="key" :lists="value"></record-list>
         </section>
         <section class="col-12 section-contents margin-bottom-0">
-          <record-title title="상세 경력"></record-title>
+          <record-title title=""></record-title>
           <section v-for="(detailContent, key) in contents.detailContents" :key="detailContent.id">
             <h2>{{key}}</h2>
             <h5>{{detailContent.date}}</h5>
