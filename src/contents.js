@@ -32,7 +32,7 @@ module.exports = {
       },
       {
         'date': 'Database',
-        'title': 'MySql / Oracle',
+        'title': 'MySQL / Oracle',
       },
       {
         'date': 'ETC',
@@ -58,7 +58,7 @@ module.exports = {
         'contents': [
           '- 코린이 프로젝트를 하며 진행한 AWS EC2, RDS 설정 정리',
           '- AWS 프리티어, 스프링 프레임워크 사용',
-          '- <a href="https://speakerdeck.com/greatfarmer/cobojareul-wihan-aws-ec2-rds-seoljeong">speakerdeck.com/greatfarmer/cobojareul-wihan-aws-ec2-rds-seoljeong</a>',
+          '- <a href="https://www.slideshare.net/SeonghunKang3/aws-ec2-rds">slideshare.net/SeonghunKang3/aws-ec2-rds</a>',
         ]
       }
     ]

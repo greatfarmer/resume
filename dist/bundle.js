@@ -9285,7 +9285,7 @@ module.exports = {
       'title': 'Spring / MyBatis'
     }, {
       'date': 'Database',
-      'title': 'MySql / Oracle'
+      'title': 'MySQL / Oracle'
     }, {
       'date': 'ETC',
       'title': 'Git / Linux / AWS'
@@ -9298,7 +9298,7 @@ module.exports = {
     '문서': [{
       'date': '2018.07',
       'title': '초보자를 위한 AWS EC2, RDS 설정',
-      'contents': ['- 코린이 프로젝트를 하며 진행한 AWS EC2, RDS 설정 정리', '- AWS 프리티어, 스프링 프레임워크 사용', '- <a href="https://speakerdeck.com/greatfarmer/cobojareul-wihan-aws-ec2-rds-seoljeong">speakerdeck.com/greatfarmer/cobojareul-wihan-aws-ec2-rds-seoljeong</a>']
+      'contents': ['- 코린이 프로젝트를 하며 진행한 AWS EC2, RDS 설정 정리', '- AWS 프리티어, 스프링 프레임워크 사용', '- <a href="https://www.slideshare.net/SeonghunKang3/aws-ec2-rds">slideshare.net/SeonghunKang3/aws-ec2-rds</a>']
     }]
   },
   summary: {
