@@ -17,7 +17,7 @@ module.exports = {
     `
   ,
   contents: {
-    '보유 기술': [
+    '보유기술': [
       {
         'date': '',
         'title': '',
