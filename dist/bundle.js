@@ -9261,7 +9261,6 @@ module.exports = {
   profile: {
     name: '강성훈',
     description: 'Software Developer',
-    // dateOfBirth: '',
     email: 'lutis107@gmail.com',
     links: [{ name: 'github', href: 'https://github.com/greatfarmer' }]
   },
@@ -9274,34 +9273,39 @@ module.exports = {
     `,
 
   contents: {
-    '보유 기술': [{
+    '보유기술': [{
       'date': '',
       'title': '',
       'contents': ['']
     }, {
       'date': 'Language',
-      'title': 'Java / JavaScript',
-      'contents': ['']
+      'title': 'Java / JavaScript'
     }, {
       'date': 'Framework',
-      'title': 'Spring',
-      'contents': ['']
+      'title': 'Spring / MyBatis'
+    }, {
+      'date': 'Database',
+      'title': 'MySql / Oracle'
     }, {
       'date': 'ETC',
-      'title': 'Git / Linux / AWS',
-      'contents': ['']
+      'title': 'Git / Linux / AWS'
     }],
     '프로젝트': [{
       'date': '2018.05 - 2018.07',
-      'title': 'corin2',
-      'contents': ['- 예비개발자를 위한 프로젝트 관리 사이트', '- <a href="http://corin2.site">corin2.site</a>']
+      'title': '코린이',
+      'contents': ['- 예비개발자를 위한 프로젝트 관리 사이트', '- 주요 기능: 일정, 파일함, 채팅, 관리자페이지', '- 사용 기술: Spring, WebSocket, Firebase Realtime Database', '- <a href="http://corin2.site">corin2.site</a>']
+    }],
+    '문서': [{
+      'date': '2018.07',
+      'title': '초보자를 위한 AWS EC2, RDS 설정',
+      'contents': ['- 코린이 프로젝트를 하며 진행한 AWS EC2, RDS 설정 정리', '- AWS 프리티어, 스프링 프레임워크 사용', '- <a href="https://speakerdeck.com/greatfarmer/cobojareul-wihan-aws-ec2-rds-seoljeong">speakerdeck.com/greatfarmer/cobojareul-wihan-aws-ec2-rds-seoljeong</a>']
     }]
   },
   summary: {
     '경력': [{
       'date': ['2018.09', '현재'],
       'title': 'Epopcon',
-      'contents': ['Back-end 개발']
+      'contents': ['개발']
     }]
   }
 };
