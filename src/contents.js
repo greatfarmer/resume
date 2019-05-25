@@ -24,7 +24,7 @@ module.exports = {
       },
       {
         'date': 'Language',
-        'title': 'Java / JavaScript',
+        'title': 'Java / JavaScript / Python',
       },
       {
         'date': 'Framework',
@@ -47,7 +47,7 @@ module.exports = {
           '- 예비개발자를 위한 프로젝트 관리 사이트',
           '- 주요 기능: 일정, 파일함, 채팅, 관리자페이지',
           '- 사용 기술: Spring, WebSocket, Firebase Realtime Database',
-          '- <a href="http://corin2.site">corin2.site</a>',
+          '- <a href="https://github.com/corin2/corin2">corin2 github repository</a>',
         ]
       },
     ],
@@ -67,7 +67,7 @@ module.exports = {
     '경력': [
       {
         'date': ['2018.09', '현재'],
-        'title': 'Epopcon',
+        'title': 'epopcon',
         'contents': [
           '개발'
         ]
