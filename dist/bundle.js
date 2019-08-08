@@ -9306,6 +9306,14 @@ module.exports = {
       'contents': ['- 코린이 프로젝트를 하며 진행한 AWS EC2, RDS 설정 정리', '- AWS 프리티어, 스프링 프레임워크 사용', '- <a href="https://www.slideshare.net/SeonghunKang3/aws-ec2-rds">slideshare.net/SeonghunKang3/aws-ec2-rds</a>']
     }, {
       'date': '2019.04',
+      'title': '문자사이에 특정문자를 입력하고 싶을 때',
+      'contents': ['- <a href="https://github.com/greatfarmer/TIL/blob/master/Java/Tip/Java-StringJoiner.md">문자사이에 특정문자를 입력하고 싶을 때</a>']
+    }, {
+      'date': '2019.04',
+      'title': '실행 가능한 jar파일 만들고 실행하기',
+      'contents': ['- <a href="https://github.com/greatfarmer/TIL/blob/master/Java/Tip/Java-jar.md">실행 가능한 jar파일 만들고 실행하기</a>']
+    }, {
+      'date': '2019.04',
       'title': 'git push시 "매번 github 인증정보 묻지 않기" 설정',
       'contents': ['- <a href="https://readpost.co/post/git-push%EC%8B%9C-%EB%A7%A4%EB%B2%88-github-%EC%9D%B8%EC%A6%9D%EC%A0%95%EB%B3%B4-%EB%AC%BB%EC%A7%80-%EC%95%8A%EA%B8%B0-%EC%84%A4%EC%A0%95--mU">git push시 "매번 github 인증정보 묻지 않기" 설정</a>']
     }, {
