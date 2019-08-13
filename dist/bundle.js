@@ -9265,16 +9265,11 @@ module.exports = {
     links: [{ name: 'github', href: 'https://github.com/greatfarmer' }, { name: 'linkedin', href: 'https://www.linkedin.com/in/greatfarmer/' }]
   },
   introduction: `
-    ‘뚱이’와 ‘Consolas’ 폰트를 사랑하는 개발자입니다<br />
-    “세상 사람들이 유용하게 사용할 수 있는 서비스”를 만드는 꿈을 가지고 있습니다<br />
+    ‘뚱이’를 사랑하는 개발자입니다<br />
     주로 자바와 스프링을 다룹니다<br />
+    “세상 사람들이 유용하게 사용할 수 있는 서비스”를 만드는 꿈을 가지고 있습니다<br />
     늦게 개발을 시작한 만큼 열심히 살고 있습니다<br />
     인정받는 것을 좋아합니다(a.k.a. 인정사냥꾼)<br />
-    <br />
-    # 사담<br />
-    공대출신으로 근본적인 해결을 선호합니다<br />
-    어떤 문제에 대해 deep dive할 준비가 되어 있습니다<br />
-    오늘 한 일에 대해 Test가 완료 후 걱정없이 수면을 취하는 것을 선호합니다<br />
     `,
 
   contents: {
