@@ -95,7 +95,7 @@ module.exports = {
   summary: {
     '경력': [
       {
-        'date': ['2018.09', '현재'],
+        'date': ['2018.09', '2019.12'],
         'title': 'epopcon',
         'contents': [
           '개발'
